@@ -20,25 +20,12 @@ from s04_encoding import ordinal_encode, one_hot_encode
 from s05_2_feature_engineering import build_polynomials, transform_label, treat_skewness
 from params import ProjectParameters
 
-# def get_folders(user_profile=None, target_type=None):
-#     inputs = os.path.join('..', 'data', '03_processed')
-#     models_reports = os.path.join('..', 'data', '04_models')
-#     model_outputs = os.path.join('..', 'data', '05_model_output')
-#     reports = os.path.join('..', 'data', '06_reporting')
-
-#     #build subfolders
-#     #test1
-#     from pathlib import Path
-#     for subfolder in [models_reports, model_outputs, reports]:
-#         Path(subfolder).mkdir(parents=True, exist_ok=True)
-    
-#     return inputs, models_reports, model_outputs, reports, 
 
 def get_model_params(classifier, scoring):
     if scoring == 'neg_mean_squared_error':
         classifier.best_score_ = -classifier.best_score_
     return classifier.best_params_, classifier.best_score_
-    
+
 ### model training steps ###
 def timer(t_init):
     t = datetime.now() - t_init
