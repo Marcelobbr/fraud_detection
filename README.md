@@ -5,7 +5,8 @@
 * Franklin Oliveira
 
 ## Base de dados
-* https://www.kaggle.com/mlg-ulb/creditcardfraud
+<!-- * https://www.kaggle.com/mlg-ulb/creditcardfraud -->
+* https://www.kaggle.com/c/ieee-fraud-detection/data
 
 ## Introdução
 <!-- Além da métrica de score a ser definida, diversas outras medidas são importantes para o processo decisório
