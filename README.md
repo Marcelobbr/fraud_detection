@@ -2,7 +2,7 @@
 
 ## Autores
 * [Marcelo B. Barata Ribeiro](https://www.linkedin.com/in/marcelobarataribeiro/)
-* Franklin Oliveira
+* [Franklin Oliveira](https://www.github.com/Franklin-oliveira)
 
 ## Base de dados
 <!-- * https://www.kaggle.com/mlg-ulb/creditcardfraud -->
