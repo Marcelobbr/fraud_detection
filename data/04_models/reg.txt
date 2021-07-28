@@ -1,0 +1,10 @@
+GridSearchCV(cv=5,
+             estimator=Pipeline(steps=[('imputation',
+                                        SimpleImputer(strategy='median')),
+                                       ('scaler', StandardScaler()),
+                                       ('model', LogisticRegression())]),
+             param_grid={'model__C': array([1.00000000e-05, 3.16227766e-04, 1.00000000e-02, 3.16227766e-01,
+       1.00000000e+01]),
+                         'model__penalty': ['l2'],
+                         'model__random_state': [42]},
+             scoring='f1')
