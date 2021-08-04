@@ -66,8 +66,6 @@ O projeto foi organizado de uma forma linear de modo a facilitar a navegação e
 │   ├── 07_model_selection.ipynb
 │   ├── 08_final_model.ipynb
 │   ├── sandbox05_2_feature_engineering.ipynb
-├── papers
-│   ├── ...
 ├── src
 │   ├── model.py
 │   ├── params.py
@@ -75,8 +73,6 @@ O projeto foi organizado de uma forma linear de modo a facilitar a navegação e
 │   ├── s04_1_feature_engineering.py
 │   ├── utils.py
 ├── temp
-├── presentation.pdf
-├── presentation.pptx
 ├── README.md
 ├── requirements.txt
 └── runtime.txt
