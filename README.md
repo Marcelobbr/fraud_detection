@@ -1,4 +1,14 @@
 # Demo
+<!-- 
+# draft
+What is the question you want answered?
+What is the population in question?
+What are your dependent and independent variables?
+
+identifying what the target variable is would require the data scientist to work with other professionals that may have domain expertise.  
+
+If you target variable is continuous, then regression analysis is the appropriate model to use. If your target variable is discrete, then you have to build a classification model. In the case of unsupervised learning, there is no target variable. In this case, you can use a clustering algorithm for training your model.
+-->
 
 ## Autores
 * [Marcelo B. Barata Ribeiro](https://www.linkedin.com/in/marcelobarataribeiro/)
