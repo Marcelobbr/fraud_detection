@@ -69,17 +69,18 @@ O projeto foi organizado de uma forma linear de modo a facilitar a navegação e
 │   ├── 02_split.ipynb
 │   ├── 03_eda_cleansing.ipynb
 │   ├── 04_encoding.ipynb
-│   ├── 05_1_check_collinearity.ipynb
-│   ├── 06_model_linear.ipynb
-│   ├── 06_model_tree_rf.ipynb
-│   ├── 06_model_tree_xgboost.ipynb
-│   ├── 07_model_selection.ipynb
-│   ├── 08_final_model.ipynb
-│   ├── sandbox05_2_feature_engineering.ipynb
+│   ├── 05_feature_engineering_sandbox
+│   ├── 06_check_correlations.ipynb
+│   ├── 07_model_linear.ipynb
+│   ├── 07_model_tree_rf.ipynb
+│   ├── 07_model_tree_xgboost.ipynb
+│   ├── 08_model_selection.ipynb
+│   ├── 09_final_model.ipynb
+│   ├── 10_decision_making.ipynb
 ├── src
+│   ├── build_subfolders.py
 │   ├── model.py
 │   ├── params.py
-│   ├── s03_encoding.py
 │   ├── s04_1_feature_engineering.py
 │   ├── utils.py
 ├── temp
